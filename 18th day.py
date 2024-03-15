@@ -2,6 +2,7 @@
 '''new={"emp1":{"name":"arun","dep":"python"},
      "emp2":{"name":"balaji","dep":"java"},
      "emp3":{"name":"divi","dep":"cobal"}}
+     "emp4":{"name":"sagar","dep":"cobal"}}
 for i,j in new.items():
          print(i)
          for key,val in j.items():
